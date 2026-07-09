@@ -226,7 +226,7 @@ streamlit run app.py
 
 ## 👩‍💻 Author
 
-**Anushka Garade**
+**Madhura Nalawade**
 BE – Information Technology
 Project: *Carbon‑Smart EV Charging Scheduler*
 
